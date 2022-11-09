@@ -1,4 +1,4 @@
-# Simple Tic-Tac-Toe Final code of Project with stages:open_book::computer::computer_mouse:
+# Tic-Tac-Toe Final code of Project with stages:open_book::dart::white_circle::heavy_multiplication_x:
 
 ### Stage :one:<br />
 To start things off, the program needs to be able to print any state of the field. You’ll write a serious multi-line program using a lot of prints.
